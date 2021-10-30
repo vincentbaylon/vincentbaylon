@@ -6,7 +6,7 @@ My name is Vincent (he/him) and I'm a Fullstack Software Engineer. I'm passionat
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentbaylon&hide=shell&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/vincentbaylon/github-readme-stats)
 
-### Projects 💻
+### Projects 🛠
 Phoenix Fitness | [Repo](https://github.com/vincentbaylon/phoenix) | [Live Site](https://phoenix-fitness.herokuapp.com)<br>
 A workout and body progress tracker to assist in achieving your fitness goals
 
