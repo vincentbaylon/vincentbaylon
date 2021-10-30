@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Vincent (he/him) and I'm a Fullstack Software Engineer. I recently completed the Software Engineering program at Flatiron School. I'm passionate about creating apps/sites that positively impact people's lives.
+My name is Vincent (he/him) and I'm a Fullstack Software Engineer. I'm passionate about creating apps/sites that positively impact people's lives.
 
 [![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vincentbaylon&show_icons=true&theme=tokyonight)
 ](https://github.com/vincentbaylon/github-readme-stats)
