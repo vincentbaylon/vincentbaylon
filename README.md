@@ -14,7 +14,7 @@ DunderList | [Repo](https://github.com/vincentbaylon/DunderList)<br>
 An e-commerce site themed after tv show The Office
 
 Guardians of the Banana | [Repo](https://github.com/vincentbaylon/guardians-banana)<br>
-A 1v1 fighting game
+A 1v1 turn-based fighting game with battle logic
 
 How To Train Your Dragon | [Repo](https://github.com/vincentbaylon/rpg-frontend)<br>
 A guided RPG game
