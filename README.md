@@ -1,10 +1,11 @@
 ### Hi there 👋
 My name is Vincent (he/him) and I'm a Fullstack Software Engineer. I'm passionate about creating apps/sites that positively impact people's lives.
 
-[![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vincentbaylon&show_icons=true&theme=tokyonight)
-](https://github.com/vincentbaylon/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentbaylon&hide=shell&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/vincentbaylon/github-readme-stats)
+### Connect With Me 🤝
+[![Custom badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincentbaylon/)
+[![Custom badge](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vincentbaylon@gmail.com)
+[![Custom badge](https://img.shields.io/badge/Dev.To-%23000000.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/vincentbaylon)
+[![Custom badge](https://img.shields.io/badge/twitter-%23316192.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vincentbaylon_)
 
 ### Projects 🛠
 Phoenix Fitness | [Repo](https://github.com/vincentbaylon/phoenix) | [Live Site](https://phoenix-fitness.herokuapp.com)<br>
@@ -37,9 +38,8 @@ Misc<br>
 ![Custom badge](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Custom badge](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red)
 
-### Connect With Me 🤝
-[![Custom badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincentbaylon/)
-[![Custom badge](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vincentbaylon@gmail.com)
-[![Custom badge](https://img.shields.io/badge/Dev.To-%23000000.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/vincentbaylon)
-[![Custom badge](https://img.shields.io/badge/twitter-%23316192.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vincentbaylon_)
+[![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vincentbaylon&show_icons=true&theme=tokyonight)
+](https://github.com/vincentbaylon/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentbaylon&hide=shell&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/vincentbaylon/github-readme-stats)
 
