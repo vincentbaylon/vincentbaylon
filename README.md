@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Vincent (he/him) and I'm a Fullstack Software Engineer. I'm passionate about being creative and developing web apps that positively impact people's lives.
+My name is Vincent (he/him) and I'm a Full-Stack Web Developer. I'm passionate about being creative and developing web apps that positively impact people's lives.
 
 <hr />
 
