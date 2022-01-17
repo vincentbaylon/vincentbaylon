@@ -12,6 +12,9 @@ My name is Vincent (he/him) and I'm a Full-Stack Web Developer. I'm passionate a
 <hr />
 
 ### Projects 🛠
+Cruelty-Free Recipes | [Repo](https://github.com/vincentbaylon/cruelty-free-recipes) | [Live Site](https://crueltyfree.recipes)
+A site for plant-based recipes using the Spoonacular API.
+
 Phoenix Fitness | [Repo](https://github.com/vincentbaylon/phoenix) | [Live Site](https://phoenix-fitness.herokuapp.com)<br>
 A workout and body progress tracker to assist in achieving your fitness goals
 
