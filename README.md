@@ -13,13 +13,16 @@ My name is Vincent (he/him) and I'm a Full-Stack Web Developer. I'm passionate a
 
 ### Projects 🛠
 Cruelty-Free Recipes | [Repo](https://github.com/vincentbaylon/cruelty-free-recipes) | [Live Site](https://crueltyfree.recipes)<br>
-A site for plant-based recipes using the Spoonacular API.
+A site for plant-based recipes using the Spoonacular API
 
 Phoenix Fitness | [Repo](https://github.com/vincentbaylon/phoenix) | [Live Site](https://phoenix-fitness.herokuapp.com)<br>
 A workout and body progress tracker to assist in achieving your fitness goals
 
 DunderList | [Repo](https://github.com/vincentbaylon/DunderList)<br>
 An e-commerce site themed after tv show The Office
+
+Dead A** Weather | [Repo](https://github.com/vincentbaylon/weatherapplicationv2)
+A weather app with real-time commenting
 
 Guardians of the Banana | [Repo](https://github.com/vincentbaylon/guardians-banana)<br>
 A 1v1 turn-based fighting game with battle logic
