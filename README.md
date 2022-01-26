@@ -24,12 +24,6 @@ An e-commerce site themed after tv show The Office
 Dead A** Weather | [Repo](https://github.com/vincentbaylon/weatherapplicationv2)<br>
 A weather app with real-time commenting
 
-Guardians of the Banana | [Repo](https://github.com/vincentbaylon/guardians-banana)<br>
-A 1v1 turn-based fighting game with battle logic
-
-How To Train Your Dragon | [Repo](https://github.com/vincentbaylon/rpg-frontend)<br>
-A guided role-playing game
-
 <hr />
 
 ### Skills 🧠
