@@ -19,7 +19,7 @@ Phoenix Fitness | [Repo](https://github.com/vincentbaylon/phoenix) | [Live Site]
 A workout and body progress tracker to assist in achieving your fitness goals
 
 Frontend Masters - E-commerce | [Repo](https://github.com/vincentbaylon/css-fm-ecommerce) | [Live Site](https://fm-ecommerce-vb.netlify.app/)<br>
-A challenge to create a product page as close to the design as possible.
+A challenge to create a product page as close to the design as possible
 
 DunderList | [Repo](https://github.com/vincentbaylon/DunderList)<br>
 An e-commerce site themed after tv show The Office
