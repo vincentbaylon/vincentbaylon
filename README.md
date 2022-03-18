@@ -12,10 +12,10 @@ My name is Vincent (he/him) and I'm a Full-Stack Web Developer. I'm passionate a
 <hr />
 
 ### Projects 🛠
-Cruelty-Free Recipes | [Repo](https://github.com/vincentbaylon/cruelty-free-recipes) | [Live Site](https://crueltyfree.recipes)<br>
+Cruelty-Free Recipes | [Repo](https://github.com/vincentbaylon/cruelty-free-recipes)<br>
 A site for plant-based recipes using the Spoonacular API
 
-Phoenix Fitness | [Repo](https://github.com/vincentbaylon/phoenix) | [Live Site](https://phoenixfitness.herokuapp.com)<br>
+Phoenix Fitness | [Repo](https://github.com/vincentbaylon/phoenix)<br>
 A workout and body progress tracker to assist in achieving your fitness goals
 
 Frontend Masters - E-commerce | [Repo](https://github.com/vincentbaylon/css-fm-ecommerce) | [Live Site](https://fm-ecommerce-vb.netlify.app/)<br>
