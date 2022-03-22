@@ -26,10 +26,6 @@ A workout and body progress tracker to assist in achieving your fitness goals
 
 DunderList | [Repo](https://github.com/vincentbaylon/DunderList)<br>
 An e-commerce site themed after tv show The Office
-
-Dead A** Weather | [Repo](https://github.com/vincentbaylon/weatherapplicationv2)<br>
-A weather app with real-time commenting
-
 <hr />
 
 ### Skills 🧠
