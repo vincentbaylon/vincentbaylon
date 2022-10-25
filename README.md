@@ -7,7 +7,7 @@ My name is Vincent (he/him) and I'm a Full-Stack Web Developer. I'm passionate a
 [![Custom badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincentbaylon/)
 [![Custom badge](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vincentbaylon@gmail.com)
 [![Custom badge](https://img.shields.io/badge/Dev.To-%23000000.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/vincentbaylon)
-[![Custom badge](https://img.shields.io/badge/twitter-%23316192.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vincentbaylon_)
+//[![Custom badge](https://img.shields.io/badge/twitter-%23316192.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vincentbaylon_)
 
 <hr />
 
