@@ -18,11 +18,11 @@ A challenge to create a product page as close to the design as possible
 E-commerce product page | [Repo](https://github.com/vincentbaylon/css-fm-ecommerce) | [Live Site](https://fm-ecommerce-vb.netlify.app/)<br>
 A challenge to create an e-commerce page as close to the design as possible
 
-// Cruelty-Free Recipes | [Repo](https://github.com/vincentbaylon/cruelty-free-recipes) | [Live Site](https://crueltyfree.recipes/)<br>
-// A site for plant-based recipes using the Spoonacular API
+Cruelty-Free Recipes | [Repo](https://github.com/vincentbaylon/cruelty-free-recipes)<br>
+A site for plant-based recipes using the Spoonacular API
 
-// Phoenix Fitness | [Repo](https://github.com/vincentbaylon/phoenix) | [Live Site](https://phoenix-fitness.herokuapp.com/)<br>
-// A workout and body progress tracker to assist in achieving your fitness goals
+Phoenix Fitness | [Repo](https://github.com/vincentbaylon/phoenix)<br>
+A workout and body progress tracker to assist in achieving your fitness goals
 
 DunderList | [Repo](https://github.com/vincentbaylon/DunderList)<br>
 An e-commerce site themed after tv show The Office
