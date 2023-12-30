@@ -13,10 +13,10 @@ My name is Vincent (he/him) and I'm a Full-Stack Web Developer. I'm passionate a
 
 ### Projects 🛠
 Room homepage | [Repo](https://github.com/vincentbaylon/room-homepage) | [Live Site](https://room-homepage-vb.netlify.app/)<br>
-A challenge to create a product page as close to the design as possible
+A room homepage created from a design
 
 E-commerce product page | [Repo](https://github.com/vincentbaylon/css-fm-ecommerce) | [Live Site](https://fm-ecommerce-vb.netlify.app/)<br>
-A challenge to create an e-commerce page as close to the design as possible
+An e-commerce product page created from a design
 
 Cruelty-Free Recipes | [Repo](https://github.com/vincentbaylon/cruelty-free-recipes)<br>
 A site for plant-based recipes using the Spoonacular API
